@@ -1,4 +1,4 @@
-name: Build_x86_64
+name: Build_nanopi_neo2
 
 on: 
   release:
